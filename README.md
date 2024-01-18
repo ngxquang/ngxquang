@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tohew</h1>
-<h3 align="center">A junior developer from VietNam</h3>
+<h3 align="center">A developer from VietNam</h3>
 
 - 🔭 I’m currently working on **C++, C#**
 
