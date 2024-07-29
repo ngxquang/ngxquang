@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 🤝 I’m looking for help with **React Native**
-
 - 📫 How to reach me **baophong2401@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
