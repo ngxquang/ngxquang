@@ -14,7 +14,7 @@
 <a href="https://stackoverflow.com/users/19719599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19719599" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/xuanquang.0209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/xuanquang.0209/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/nx_queng29/?hl=fr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nx_queng29/?hl=fr" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/quang-nguyen-b08b3723a" target="blank"><img align="center" src="https://logospng.org/download/linkedin/logo-linkedin-icon-1536.png" alt="https://www.instagram.com/nx_queng29/?hl=fr" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/quang-nguyen-b08b3723a" target="blank"><img align="center" src="https://logospng.org/download/linkedin/logo-linkedin-icon-1536.png" alt="[https://www.instagram.com/nx_queng29/?hl=fr](https://www.linkedin.com/in/quang-nguyen-b08b3723a)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
