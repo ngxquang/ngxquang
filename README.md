@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quang Nguyen</h1>
 <h3 align="center">A developer from VietNam</h3>
 
-- 🔭 I’m currently working on **C++, C#**
-
-- 🌱 I’m currently learning **Machine Learning**
+- 🔭 I’m currently working on **C++, Javascript, Typescript**
 
 - 📫 How to reach me **baophong2401@gmail.com**
 
