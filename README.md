@@ -7,11 +7,77 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/19719599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19719599" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/xuanquang.0209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/xuanquang.0209/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/nx_queng29/?hl=fr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nx_queng29/?hl=fr" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/quang-nguyen-b08b3723a" target="blank"><img align="center" src="https://logospng.org/download/linkedin/logo-linkedin-icon-1536.png" alt="[https://www.instagram.com/nx_queng29/?hl=fr](https://www.linkedin.com/in/quang-nguyen-b08b3723a)" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/xuanquang.0209/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/quang-nguyen-b08b3723a" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+<!-- Backend Frameworks -->
+<h4>Backend Frameworks:</h4>
+<p align="left" style="display: flex; gap: 20px;">
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer" style="padding: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" />
+  </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer" style="padding: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40" />
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer" style="padding: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  </a>
+</p>
+
+<!-- Databases -->
+<h4>Databases:</h4>
+<p align="left" style="display: flex; gap: 20px;">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="padding: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="padding: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
+  </a>
+  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer" style="padding: 5px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/oracle.svg" alt="Oracle" width="40" height="40" />
+  </a>
+</p>
+
+<!-- Programming Languages -->
+<h4>Programming Languages:</h4>
+<p align="left" style="display: flex; gap: 20px;">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="padding: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="padding: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="padding: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  </a>
+</p>
+
+<!-- DevOps and Cloud Tools -->
+<h4>DevOps and Cloud Tools:</h4>
+<p align="left" style="display: flex; gap: 20px;">
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" style="padding: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="padding: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer" style="padding: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" />
+  </a>
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer" style="padding: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" width="40" height="40" />
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer" style="padding: 5px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jenkins.svg" alt="Jenkins" width="40" height="40" />
+  </a>
+</p>
+
+
+
